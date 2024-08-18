@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+}
+
+body {
+  height:100vh;
+  background-image: linear-gradient(white,goldenrod);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+} 
